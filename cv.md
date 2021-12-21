@@ -28,10 +28,10 @@ function multiply(a, b) {
 [**CV**](https://github.com/p-dziaineka/rsschool-cv/cv.md)
 --------------
 ### Education:
-1. #### Courses:
-    -[**HTML**](https://ru.code-basics.com/languages/html)
-    -[**CSS**](https://ru.code-basics.com/languages/css)
-2. #### language
+1. ### Courses:
+    - [**HTML**](https://ru.code-basics.com/languages/html)
+    - [**CSS**](https://ru.code-basics.com/languages/css)
+2. ### language
     -English **A1**
     -Russian **Mother language**
     -Poland  **C1** 
