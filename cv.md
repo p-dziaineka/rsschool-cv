@@ -23,13 +23,15 @@ function multiply(a, b) {
   return a * b
 };
 ```
-
+--------------
+## Experience
+[**CV**](https://github.com/p-dziaineka/rsschool-cv/cv.md)
 --------------
 ### Education:
 1. #### Courses:
-    - [**HTML**](https://ru.code-basics.com/languages/html)
-    - [**CSS**](https://ru.code-basics.com/languages/css)
+    -[**HTML**](https://ru.code-basics.com/languages/html)
+    -[**CSS**](https://ru.code-basics.com/languages/css)
 2. #### language
-    - English **A1**
-    - Russian **Mother language**
-    - Poland  **C1** 
+    -English **A1**
+    -Russian **Mother language**
+    -Poland  **C1** 
