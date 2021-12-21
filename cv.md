@@ -2,9 +2,9 @@
 
 --------------
 ## Contacts
-- [**MyEmail**] (p.dziaineka@gmail.com)
-- [**MyTelrgramm**] (https://t.me/p_dziaineka)
-- [**GitHub**]  (https://github.com/p-dziaineka)
+- [MyEmail] (p.dziaineka@gmail.com)
+- [MyTelrgramm] (https://t.me/p_dziaineka)
+- [GitHub]  (https://github.com/p-dziaineka)
 
 --------------
 ## About Me
