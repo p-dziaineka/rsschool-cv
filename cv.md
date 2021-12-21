@@ -25,7 +25,7 @@ function multiply(a, b) {
 ```
 --------------
 ## Experience
-[**CV**](https://github.com/p-dziaineka/rsschool-cv/cv.md)
+[**CV**](https://github.com/p-dziaineka/rsschool-cv/blob/gh-pages/cv.md)
 --------------
 ### Education:
 ### Courses:
