@@ -2,7 +2,7 @@
 
 --------------
 ## Contacts
-- [**MyEmail**](p.dziaineka@gmail.com)
+- [**MyEmail**](https://p.dziaineka@gmail.com)
 - [**MyTelrgramm**](https://t.me/p_dziaineka)
 - [**GitHub**](https://github.com/p-dziaineka)
 
