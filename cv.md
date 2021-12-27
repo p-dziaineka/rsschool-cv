@@ -7,4 +7,15 @@
 --------------
 ## About Me
 **Sociability and ability to work in a team, dedication and desire to learn something new.  I consider these to be the main qualities of my personality.**
-
+--------------
+## Skills
+- **HTML** (Basic)
+- **CSS/SASS** (Basic)
+- **Pascal** (Basic)
+--------------
+## Code Example
+```
+function multiply(a, b) {
+  return a * b
+};
+```
