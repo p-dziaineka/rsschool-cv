@@ -19,3 +19,12 @@ function multiply(a, b) {
   return a * b
 };
 ```
+--------------
+### Education:
+1. #### Courses:
+    - [**HTML**](https://ru.code-basics.com/languages/html)
+    - [**CSS**](https://ru.code-basics.com/languages/css)
+2. #### language
+    - English **A1**
+    - Russian **Mother language**
+    - Poland  **C1** 
