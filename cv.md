@@ -32,6 +32,6 @@ function multiply(a, b) {
 - [**HTML**](https://ru.code-basics.com/languages/html)
 - [**CSS**](https://ru.code-basics.com/languages/css)
 ### language
-- English **A1**
 - Russian **Mother language**
 - Poland  **C1** 
+- English **A1**
