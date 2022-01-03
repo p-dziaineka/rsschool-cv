@@ -53,3 +53,17 @@ body{
 	padding: 0px 0px 0px 36px;
 	font-size: 25px;
 }
+.item__title2{
+    font-size: 18px;
+	margin: 0px 0px 0px 0px;
+}
+.footer__row {
+	display: flex;
+	height: 65px;
+	justify-content: center;
+	align-items: center;
+}
+.footer__text {
+	font-size: 20px;
+	letter-spacing: 0.3px; 
+}
